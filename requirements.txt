@@ -1,4 +1,4 @@
 Flask
 Flask_Cors
-mysql_connector_repackaged
+mysql.connector
 PyJWT
