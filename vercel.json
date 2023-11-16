@@ -1,4 +1,10 @@
 {
+    "functions": {
+      "api/index.py": {
+        "runtime": "python3.8",
+        "memory": 512
+      }
+    },
     "rewrites": [
       { "source": "/(.*)", "destination": "/api/app" }
     ]
